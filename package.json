@@ -1,0 +1,21 @@
+{
+  "name": "genkit_magi_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@genkit-ai/core": "^1.0.5",
+    "@genkit-ai/googleai": "^1.0.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "genkit": "^1.0.5",
+    "genkitx-openai": "^0.18.0"
+  }
+}
